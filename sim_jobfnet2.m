@@ -1,0 +1,11 @@
+tm= 21000;    % Nm  Motor Torque
+r_wheel = 0.3; %m Wheel Radius 
+r_gear= 4;   %Gear Ratio
+m = 1500;   %kg mass
+g = 9.81; %m/s² Gravity 
+Cd= 0.3;   %  drag coefficient
+Cr=0.015;  %Rolling Resistance 
+rho = 1.225; %kg/m³ Air Density 
+A = 2.2 ;   % m²Frontal Area 
+i_deg=5; %deg 
+i_rad=0.0873; % 5⋅π/180 to covert to rad
